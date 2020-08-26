@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio Projects\Zork\Zork\bin\Debug\net5.0\Zork.exe
+D:\Documents\Visual Studio Projects\Zork\Zork\bin\Debug\net5.0\Zork.deps.json
+D:\Documents\Visual Studio Projects\Zork\Zork\bin\Debug\net5.0\Zork.runtimeconfig.json
+D:\Documents\Visual Studio Projects\Zork\Zork\bin\Debug\net5.0\Zork.runtimeconfig.dev.json
+D:\Documents\Visual Studio Projects\Zork\Zork\bin\Debug\net5.0\Zork.dll
+D:\Documents\Visual Studio Projects\Zork\Zork\bin\Debug\net5.0\Zork.pdb
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.AssemblyInfo.cs
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.dll
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.pdb
+D:\Documents\Visual Studio Projects\Zork\Zork\obj\Debug\net5.0\Zork.genruntimeconfig.cache
